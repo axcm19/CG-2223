@@ -1,0 +1,2 @@
+g++ engine.cpp tinyxml2.cpp -o engine -lglut -lGL -lGLU -lGLEW
+g++ generator.cpp -o generator

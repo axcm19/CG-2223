@@ -1,5 +1,10 @@
-# CG-2223
+# CG_2023 
+
 Nota final: 10/20 <br>
 
-Link para o repositório do trabalho: <br>
-https://github.com/TomasFrancisco272/CG_2023
+Grupo 11:
+
+- Afonso Xavier Cardoso Marques - a94940
+- Ana Filipa da Cunha Rebelo - a90234
+- Tomás Cardoso Francisco - a93193
+- Simão Paulo da Gama Castel-Branco e Brito - a89482
