@@ -1,4 +1,4 @@
-# CG_2023 
+# Trabalho prático de Computação Gráfica 2022/2023 
 
 Nota final: 10/20 <br>
 
